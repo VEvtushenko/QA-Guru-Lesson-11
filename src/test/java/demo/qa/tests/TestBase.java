@@ -12,7 +12,6 @@ import java.text.SimpleDateFormat;
 import java.util.Locale;
 
 import static com.codeborne.selenide.Selenide.closeWebDriver;
-import static demo.qa.utils.RandomUtils.getRandomPhone;
 import static java.lang.String.format;
 
 public class TestBase {
